@@ -16,6 +16,7 @@ Users are be able to:
 
 - Start/Restart the game
 - Hear sound effects by clicking different buttons
+- Game ends if the player gets the order of the colors wrong
 
 ### Screenshot
 
