@@ -24,7 +24,7 @@ Users are be able to:
 
 ### Links
 
-- Live Site URL: [https://mw3981.github.io/SimonGame/]
+- Live Site URL: [https://michellewongi.github.io/SimonGame/]
 
 ## My process
 
